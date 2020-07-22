@@ -14,10 +14,12 @@ Upon running `nmap -A -Pn -v 34.93.37.238` to search for open ports, there were 
 
 I was having issues with commands not issuing in both active and passive mode in the linux ftp shell, so I connected to the server using WinSCP with:
 
+```
 IP: 34.93.37.238
 Port: 5001
 User: anonymous
 Pass: anonymous
+```
 
 Located in the `pub/` folder was the flag.txt file, which contained the flag.
 
