@@ -1,4 +1,4 @@
-## Mr. Rami
+## Little RSA
 
 ### Writeup by Trent (teerix)
 
